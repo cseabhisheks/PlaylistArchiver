@@ -1,0 +1,23 @@
+# Downloaded videos
+video/
+
+# Download history / video IDs
+downloaded-video-history/
+
+# yt-dlp package
+yt_dlp/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python virtual environment
+venv/
+.venv/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
